@@ -1,2 +1,5 @@
 /.idea/
 /spring-ci-cd.iml
+/.env
+/target/
+/logs/
